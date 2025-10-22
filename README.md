@@ -3,5 +3,4 @@ Analysis of 2020 UK road accident data (STATS20) to identify when, where, and un
 
 Road traffic collisions impose a heavy toll on public health, infrastructure, and emergency services in England. In this project, we analyse the UK Department for Transport’s open‐access STATS20 accident records—focusing on 2020 data—to answer key questions about when, where, and under what conditions accidents occur, identify high-risk subgroups (motorcyclists, pedestrians), uncover associations with severe outcomes, map spatial clusters (communities), forecast future incident volumes, and explore a related social network. Our objectives are listed below: 1. Descriptive analysis of temporal, categorical, and spatial accident patterns. 2. Association rule mining to reveal combinations of environmental factors most predictive of serious or fatal outcomes. 3. Clustering and forecasting to pinpoint geographic hotspots and project short-term trends. 4. Network analysis to characterise and compare community structure in the Facebook txt dataset given. This report combines those analyses—integrating data‐cleaning steps—and concludes with actionable safety recommendations for government and police agencies.
 
-
-# Download accident_data_v1.0.0_2023.db 
+Download accident_data_v1.0.0_2023.db 
